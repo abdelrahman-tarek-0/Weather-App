@@ -1,6 +1,6 @@
 
 # Weather Journal App
-hi
+hi!!
 
 this is my weather journal app for udacity nanodegree
 
